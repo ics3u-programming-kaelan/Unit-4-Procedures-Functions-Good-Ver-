@@ -24,8 +24,20 @@ namespace optionalParametersKaelanK
             InitializeComponent();
         }
 
+        public void AddressApt(apt, street, city, postalCode, province)
+        {
+
+        }
+
+        public void AddressApt()
+        {
+
+        }
+
         private void BtnEnter_Click(object sender, EventArgs e)
         {
+            String apt, street, city, postalCode, province;
+
 
         }
     }
