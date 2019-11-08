@@ -1,9 +1,9 @@
 ﻿/*
  * Created by: Kaelan K
- * Created on: Day-Month-Year
+ * Created on: 08-11-2019
  * Created for: ICS3U Programming
- * Daily Assignment – Day #32 - Address Program
- * This program...
+ * Daily Assignment – Day #29 - Address Program
+ * This program takes in the inputs and then displays a users addresss
 */
 using System;
 using System.Collections.Generic;

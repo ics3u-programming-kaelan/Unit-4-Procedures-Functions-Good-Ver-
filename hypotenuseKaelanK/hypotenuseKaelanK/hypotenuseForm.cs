@@ -1,9 +1,9 @@
 ﻿/*
- * Created by: First Last
+ * Created by: Kaelan K
  * Created on: Day-Month-Year
  * Created for: ICS3U Programming
- * Daily Assignment – Day #33 - Volume of a Cylinder
- * This program...
+ * Daily Assignment – Day #31 - Hypotenuse
+ * This program takes the two sides of the triangle and calculates the hypotenuse
 */
 using System;
 using System.Collections.Generic;
@@ -30,7 +30,7 @@ namespace hypotenuseKaelanK
             double sideC;
 
             // calculating hypotenuse
-            sideC = Math.Sqrt(Math.Pow(2, sideA), Math.Pow(2, sideB));
+            sideC = Math.Sqrt((sideA * sideA) + (sideB * sideB));
 
             return sideC;
         }
@@ -40,14 +40,17 @@ namespace hypotenuseKaelanK
             // declaring variables
             double sideA;
             double sideB;
+            double sideC;
 
             // setting variables
             sideA = Double.Parse(txtSideA.Text);
             sideB = Double.Parse(txtSideB.Text);
 
             // calling function
-            CalculateHypotenuse(sideA, sideB);
+            sideC = CalculateHypotenuse(sideA, sideB);
 
+            // displaying called value
+            this.lblOutput.Text = Convert.ToString(sideC);
         }
     }
 }
