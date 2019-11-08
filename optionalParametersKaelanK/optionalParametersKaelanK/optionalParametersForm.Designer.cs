@@ -75,7 +75,7 @@
             // 
             this.lblProvince.AutoSize = true;
             this.lblProvince.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblProvince.Location = new System.Drawing.Point(12, 178);
+            this.lblProvince.Location = new System.Drawing.Point(12, 235);
             this.lblProvince.Name = "lblProvince";
             this.lblProvince.Size = new System.Drawing.Size(89, 24);
             this.lblProvince.TabIndex = 3;
@@ -85,7 +85,7 @@
             // 
             this.lblPostalCode.AutoSize = true;
             this.lblPostalCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPostalCode.Location = new System.Drawing.Point(12, 230);
+            this.lblPostalCode.Location = new System.Drawing.Point(12, 183);
             this.lblPostalCode.Name = "lblPostalCode";
             this.lblPostalCode.Size = new System.Drawing.Size(116, 24);
             this.lblPostalCode.TabIndex = 4;
@@ -114,16 +114,16 @@
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(107, 183);
+            this.textBox4.Location = new System.Drawing.Point(134, 188);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(400, 20);
+            this.textBox4.Size = new System.Drawing.Size(373, 20);
             this.textBox4.TabIndex = 8;
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(134, 235);
+            this.textBox5.Location = new System.Drawing.Point(107, 240);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(373, 20);
+            this.textBox5.Size = new System.Drawing.Size(400, 20);
             this.textBox5.TabIndex = 9;
             // 
             // btnEnter
