@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\bin\Debug\switchStatementKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\bin\Debug\switchStatementKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\bin\Debug\switchStatementKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\obj\Debug\switchStatementKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\obj\Debug\switchStatementKaelanK.frmPercentage.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\obj\Debug\switchStatementKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\obj\Debug\switchStatementKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\obj\Debug\switchStatementKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\obj\Debug\switchStatementKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\switchStatementKaelanK\switchStatementKaelanK\obj\Debug\switchStatementKaelanK.pdb
