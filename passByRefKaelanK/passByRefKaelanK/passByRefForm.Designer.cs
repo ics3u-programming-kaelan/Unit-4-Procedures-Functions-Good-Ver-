@@ -49,7 +49,7 @@
             this.ClientSize = new System.Drawing.Size(347, 471);
             this.Controls.Add(this.picCard);
             this.Name = "passByRefForm";
-            this.Text = "Form1";
+            this.Text = "Pass By Ref by Kaelan K";
             ((System.ComponentModel.ISupportInitialize)(this.picCard)).EndInit();
             this.ResumeLayout(false);
 
