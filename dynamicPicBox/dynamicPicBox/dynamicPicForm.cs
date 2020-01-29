@@ -20,8 +20,64 @@ namespace dynamicPicBox
 
         private void PictureBox_Click(object sender, EventArgs e)
         {
+            PictureBox tmpPicMan = (PictureBox)sender;
 
-        }
+            // declare local vars and consts
+            const byte MAX_FRAMES = 10;
+            int pictureFrameCounter = 1;
+
+            // continue this loop while the frame counter has not reached 01
+            while (pictureFrameCounter < MAX_FRAMES + 1)
+            {
+                if (pictureFrameCounter == 1)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk1;
+                }
+                else if (pictureFrameCounter == 2)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk2;
+                }
+                else if (pictureFrameCounter == 3)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk3;
+                }
+                else if (pictureFrameCounter == 4)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk4;
+                }
+                else if (pictureFrameCounter == 5)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk5;
+                }
+                else if (pictureFrameCounter == 6)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk6;
+                }
+                else if (pictureFrameCounter == 7)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk7;
+                }
+                else if (pictureFrameCounter == 8)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk8;
+                }
+                else if (pictureFrameCounter == 9)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk9;
+                }
+                else if (pictureFrameCounter == 10)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk10;
+                }
+
+                pictureFrameCounter++;
+
+                //refresh the form
+                this.Refresh();
+
+                // pause the loop for 100 ms
+                
+            }
 
         private void GeneratePictureBox(int x, int y)
         {

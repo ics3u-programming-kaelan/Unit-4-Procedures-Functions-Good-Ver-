@@ -30,6 +30,8 @@
         {
             this.btnStart = new System.Windows.Forms.Button();
             this.lblInstructions = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnStart
@@ -52,15 +54,26 @@
             this.lblInstructions.TabIndex = 1;
             this.lblInstructions.Text = "Click on the picture top see the man walk";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::dynamicPicBox.Properties.Resources.walk10;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 388);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox1.TabIndex = 2;
+            this.pictureBox1.TabStop = false;
+            // 
             // frmDynamicPic
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblInstructions);
             this.Controls.Add(this.btnStart);
             this.Name = "frmDynamicPic";
             this.Text = "Dynamic Pic by Kaelan K";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -70,6 +83,7 @@
 
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.Label lblInstructions;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
