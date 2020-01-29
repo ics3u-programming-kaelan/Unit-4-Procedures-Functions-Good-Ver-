@@ -71,6 +71,7 @@
             this.Controls.Add(this.lblInstruc);
             this.Name = "frmTempConverter";
             this.Text = "Teperature Converter by Kaelan K";
+            this.Load += new System.EventHandler(this.FrmTempConverter_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

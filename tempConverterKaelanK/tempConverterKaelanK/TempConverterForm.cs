@@ -30,7 +30,7 @@ namespace tempConverterKaelanK
             double convertedTemp;
 
             // calculate the converted temp
-            convertedTemp = 9 / 5 * celsius + 32;
+            convertedTemp = celsius * 1.8 + 32;
 
             // display a message box
             MessageBox.Show(celsius + " Celsius" + " = " + convertedTemp + " Fahrenheit");
@@ -45,6 +45,11 @@ namespace tempConverterKaelanK
 
             // call on calculateF
             this.CalculateF(celsius);
+
+        }
+
+        private void FrmTempConverter_Load(object sender, EventArgs e)
+        {
 
         }
     }
