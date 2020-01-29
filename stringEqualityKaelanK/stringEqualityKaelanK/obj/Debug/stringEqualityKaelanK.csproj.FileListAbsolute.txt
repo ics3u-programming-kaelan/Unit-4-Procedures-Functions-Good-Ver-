@@ -1,0 +1,5 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\stringEqualityKaelanK\stringEqualityKaelanK\obj\Debug\stringEqualityKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\stringEqualityKaelanK\stringEqualityKaelanK\obj\Debug\stringEqualityKaelanK.stringEqualityForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\stringEqualityKaelanK\stringEqualityKaelanK\obj\Debug\stringEqualityKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\stringEqualityKaelanK\stringEqualityKaelanK\obj\Debug\stringEqualityKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 4 (Procedures & Functions)(Good Ver)\stringEqualityKaelanK\stringEqualityKaelanK\obj\Debug\stringEqualityKaelanK.csproj.CoreCompileInputs.cache
